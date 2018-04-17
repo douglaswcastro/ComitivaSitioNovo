@@ -29,8 +29,5 @@
             <li>
                 <a href="generic.php">Informações</a>
             </li>
-            <li>
-                <a href="elements.php">Elements</a>
-            </li>
         </ul>
     </nav>

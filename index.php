@@ -47,18 +47,18 @@ include("Includes/header.php");
 					<div class="grid-style">
 
 						<div>
-							<div class="box">
+						<div class="box">
 								<div class="image fit">
-									<img src="images/foto5.jpg" alt="" />
+									<img src="images/comitiva.jpg" alt="" width="200" height="400" />
 								</div>
 								<div class="content">
 									<header class="align-center">
-										<p>maecenas sapien feugiat ex purus</p>
-										<h2>Lorem ipsum dolor</h2>
+										<p>um pouco sobre nós</p>
+										<h2>Nos conheça</h2>
 									</header>
-									<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>
+									<h1> </h1>
 									<footer class="align-center">
-										<a href="#" class="button alt">Learn More</a>
+										<a href="generic" class="button alt">Saiba mais</a>
 									</footer>
 								</div>
 							</div>
@@ -67,16 +67,16 @@ include("Includes/header.php");
 						<div>
 							<div class="box">
 								<div class="image fit">
-									<img src="images/pic03.jpg" alt="" />
+									<img src="images/comitiva.jpg" alt="" width="200" height="400"/>
 								</div>
 								<div class="content">
 									<header class="align-center">
-										<p>mattis elementum sapien pretium tellus</p>
-										<h2>Vestibulum sit amet</h2>
+										<p>um pouco sobre nós</p>
+										<h2>Nos conheça</h2>
 									</header>
-									<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>
+									<h1> </h1>
 									<footer class="align-center">
-										<a href="#" class="button alt">Learn More</a>
+										<a href="generic" class="button alt">Saiba mais</a>
 									</footer>
 								</div>
 							</div>
