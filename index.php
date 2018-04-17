@@ -58,7 +58,7 @@ include("Includes/header.php");
 									</header>
 									<h1> </h1>
 									<footer class="align-center">
-										<a href="generic" class="button alt">Saiba mais</a>
+										<a href="generic.php" class="button alt">Saiba mais</a>
 									</footer>
 								</div>
 							</div>
@@ -76,7 +76,7 @@ include("Includes/header.php");
 									</header>
 									<h1> </h1>
 									<footer class="align-center">
-										<a href="generic" class="button alt">Saiba mais</a>
+										<a href="generic.php" class="button alt">Saiba mais</a>
 									</footer>
 								</div>
 							</div>
