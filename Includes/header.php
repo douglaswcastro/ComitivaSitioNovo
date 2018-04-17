@@ -19,7 +19,6 @@
         </div>
         <a href="#menu">Menu</a>
     </header>
-
     <!-- Nav -->
     <nav id="menu">
         <ul class="links">
@@ -27,7 +26,10 @@
                 <a href="index.php">Início</a>
             </li>
             <li>
-                <a href="generic.php">Informações</a>
+                <a href="sobre.php">Sobre</a>
+            </li>
+            <li>
+                <a href="contato.php">Contatos</a>
             </li>
         </ul>
     </nav>

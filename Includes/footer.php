@@ -12,10 +12,15 @@
                     <span class="label">Email</span>
                 </a>
             </li>
+            <li>
+                <a href="#" class="icon fa-instagram">
+                    <span class="label">Instagram</span>
+                </a>
+            </li>
         </ul>
     </div>
     <div class="copyright">
-        <p>&copy;Desenvolvido por: <a href="https://dtec.azurewebsites.net"> <img src="images/logo12.png" width="100" height="40"/></a><?php echo date('Y') ?>. Todos Direitos Reservados</p>
+        <p>&copy;Desenvolvido por: <a href="https://dtec.azurewebsites.net"> DTec </a><?php echo date('Y') ?>. Todos Direitos Reservados</p>
     </div>
 </footer>
 

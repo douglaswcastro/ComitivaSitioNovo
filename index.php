@@ -4,7 +4,7 @@ include("Includes/header.php");
 		<!-- Banner -->
 			<section class="banner full">
 				<article>
-					<img src="images/foto1.jpg" alt="" />
+					<img src="images/cavalopampa.jpg" alt="" />
 					<div class="inner">
 						<header>
 							<p>uma família apaixonada por cavalos</p>
@@ -22,7 +22,7 @@ include("Includes/header.php");
 					</div>
 				</article>
 				<article>
-					<img src="images/foto3.jpg"  alt="" />
+					<img src="images/cavalo.jpg"  alt="" />
 					<div class="inner">
 						<header>
 							<p>Cada dia mais apaixonados pelos animais</p>
@@ -45,7 +45,6 @@ include("Includes/header.php");
 			<section id="one" class="wrapper style2">
 				<div class="inner">
 					<div class="grid-style">
-
 						<div>
 						<div class="box">
 								<div class="image fit">
@@ -58,30 +57,11 @@ include("Includes/header.php");
 									</header>
 									<h1> </h1>
 									<footer class="align-center">
-										<a href="generic.php" class="button alt">Saiba mais</a>
+										<a href="sobre.php" class="button alt">Saiba mais</a>
 									</footer>
 								</div>
 							</div>
 						</div>
-
-						<div>
-							<div class="box">
-								<div class="image fit">
-									<img src="images/comitiva.jpg" alt="" width="200" height="400"/>
-								</div>
-								<div class="content">
-									<header class="align-center">
-										<p>um pouco sobre nós</p>
-										<h2>Nos conheça</h2>
-									</header>
-									<h1> </h1>
-									<footer class="align-center">
-										<a href="generic.php" class="button alt">Saiba mais</a>
-									</footer>
-								</div>
-							</div>
-						</div>
-
 					</div>
 				</div>
 			</section>
@@ -121,6 +101,16 @@ include("Includes/header.php");
 						<div>
 							<div class="image fit">
 								<a href="#"><img src="images/foto4.jpg" alt="" /></a>
+							</div>
+						</div>
+						<div>
+							<div class="image fit">
+								<a href="#"><img src="images/cavalopampa.jpg" alt="" /></a>
+							</div>
+						</div>
+						<div>
+							<div class="image fit">
+								<a href="#"><img src="images/cavalo.jpg" alt="" /></a>
 							</div>
 						</div>
 					</div>
