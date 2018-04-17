@@ -3,7 +3,7 @@
     <div class="container">
         <ul class="icons">
             <li>
-                <a href="#" class="icon fa-facebook">
+                <a href="https://www.facebook.com/comitivasitionovo/" class="icon fa-facebook">
                     <span class="label">Facebook</span>
                 </a>
             </li>

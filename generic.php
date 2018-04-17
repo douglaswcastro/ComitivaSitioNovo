@@ -30,7 +30,6 @@ include("Includes/header.php");
 					</div>
 				</div>
 			</section>
-
 		<?php
 	include("Includes/header.php");
 	?>
